@@ -1,16 +1,19 @@
-### Hi there 👋
+# Overview
 
-<!--
-**volkankalay/volkankalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there  :wave:**
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: I am a computer engineer and software developer.
+
+:house: I live in Turkey.
+
+:thumbsup: I am creating web pages, mobile and desktop applications.
+
+
+### Contact
+:mailbox: __E-Mail:__ hi@vlkn.icu
+
+:globe_with_meridians: __Web:__ https://vlkn.icu
+
+:house: __Address:__ Zonguldak, Turkey
